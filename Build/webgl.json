@@ -1,7 +1,7 @@
 {
 "companyName": "FantongStudios",
 "productName": "Jerry and the Ballista of Truth",
-"productVersion": "0.1",
+"productVersion": "0.5",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
